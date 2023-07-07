@@ -1,0 +1,34 @@
+** Definitions
+
+What is DevOps?
+DevOps is a methodology which brings development and opreation team together to make process faster and reliale.
+
+What is Agile?
+The agile methodology is a project management approach that involves breaking the project into phases and emphasize
+continuous collabration and improvement.
+Teams follow a cycle of planning, executing and evaluating.
+
+Flow of agile:
+MEET --> PLAN --> DESIGN --> DEVELOP --> TEST --> EVALUATE
+
+What is Jenkins?
+Jenkins is an open source continuous integration/continuous delivery and development CI/CD automation software.
+It is used to implement the CI/CD workflows, called pipeline.
+
+
+
+
+**commands
+
+1] git add [filename] 
+
+The git add command adds new or changed files in your working directory to the Git staging area.
+eg. git add pooja.txt
+
+2]git init
+
+git init means git initialization. git init is one way to start a new project with Git. 
+ git init turns any directory into a Git repository.
+
+
+
